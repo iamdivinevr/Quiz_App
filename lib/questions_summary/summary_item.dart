@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:adv_basics/questions_summary/question_identifier.dart';
 
 class SummaryItem extends StatelessWidget {
